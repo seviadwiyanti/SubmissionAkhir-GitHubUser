@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GitHubUser</string>
+    <string name="searchbar_hint">Masukkan username</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="followers">Follower</string>
+    <string name="following">Following</string>
+    <string name="detail_app_name">Detail User</string>
+    <string name="title_activity_favorite">FavoriteActivity</string>
+    <string name="menu_1">Setting</string>
+    <string name="menu_2">Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <!--    <string name="favorite_user">Favorite User</string>-->
+    <!--    <string name="favorite">favorite</string>-->
+</resources>
